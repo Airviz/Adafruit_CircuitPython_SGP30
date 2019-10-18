@@ -10,3 +10,6 @@ bundles
 .eggs
 dist
 **/*.egg-info
+.DS_Store
+*.iws
+python3-virtual-env
